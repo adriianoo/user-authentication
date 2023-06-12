@@ -15,7 +15,7 @@ body {
     padding: 10px;
 }
 
-.login {
+.box {
     width: 100%;
     max-width: 540px;
     margin: 100px auto 20px;
@@ -25,8 +25,9 @@ body {
     border-radius: 10px;
 }
 
-.login h1 {
-    padding-bottom: 20px
+.box h1 {
+    padding-bottom: 20px;
+    color: #222222;
 }
 
 .login-process {
@@ -41,10 +42,36 @@ body {
     border-radius: 5px;
 }
 
+.content {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.content .checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content input {
+    width: 15px;
+    height: 15px;
+}
+
+.content label {
+    color: #222222;
+    user-select: none;
+    padding-left: 5px;
+}
+
 .login-button {
     padding: 10px 20px;
     font-weight: bold;
-    background-color: rgb(123, 199, 224);
+    background-color: #4ea9ff;
     color: white;
     border: none;
     border-radius: 5px;
@@ -52,5 +79,21 @@ body {
 }
 
 .login-button:hover {
-    background-color: rgb(105, 177, 201);
+    background-color: #339DFF;
   }
+
+.signup-link {
+    color: #222222;
+    font-size: 14px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.signup-link a, .pass-link a{
+    color: #4158d0;
+    text-decoration: none;
+}
+
+.signup-link a:hover, .pass-link a:hover {
+    text-decoration: underline;
+}
