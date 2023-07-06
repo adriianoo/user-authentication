@@ -1,5 +1,5 @@
 # In work... 🤓
-Currently in the process of learning a backend-language to finish this project!
+I'm Currently learning a backend-language to finish this project!
 
 <br>
 
