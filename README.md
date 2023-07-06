@@ -1,5 +1,5 @@
 # In work... 🤓
-I'm Currently learning a __backend-language__ _(node.js or PHP)_ and __databases__ _(MongoDB or MySQL)_ to finish this project!
+Currently in the process of learning a __backend-language__ _(node.js or PHP)_ and __databases__ _(MongoDB or MySQL)_ to finish this project!
 
 <br>
 
