@@ -1,5 +1,5 @@
 # In work... 🤓
-Currently in the process of getting the user-authentication project up and running!
+Currently in the process of learning a backend-language to finish this project!
 
 <br>
 
